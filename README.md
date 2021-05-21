@@ -1,2 +1,2 @@
-# WP_TogashiraPark
-WordPressとがしら
+# togashira_events
+とがしら公園限定サイト
